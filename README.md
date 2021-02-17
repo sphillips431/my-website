@@ -6,4 +6,4 @@ updates made on master on github before rebase
 
 ## repo purpose
 
-this will conflict
+this file is just a readme
